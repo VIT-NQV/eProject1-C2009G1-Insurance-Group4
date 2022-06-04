@@ -1,0 +1,11 @@
+label {
+    font-weight: bold;
+}
+.error {
+    color: #FF0000;
+}
+div.error{
+    border: thin solid red; 
+    display: inline-block;
+    padding: 5px;
+}

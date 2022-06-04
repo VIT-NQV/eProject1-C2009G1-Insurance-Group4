@@ -1,0 +1,32 @@
+.successfully{
+    text-align:center;
+    color: green;
+}
+
+tr{
+    background-color: rgb(89, 230, 89);
+}
+
+td{
+    background-color: rgb(186, 201, 186);
+}
+
+.center{
+    text-align: center;
+}
+
+.dot {
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.max {
+    width: 100%;
+    display: inline-table;
+}
+
+/* .header{
+    background-color: rgb(99, 102, 99);
+} */
